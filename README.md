@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This project involves building a home lab in VirtualBox. It involves setting up a versatile virtual environment on your host machine to experiment with two operating systems, software, and networking configurations. This project includes installing multiple virtual machines (VMs) which are Ubuntu and Windows, it also involves configuring internal and external networks
+This project involves building a home lab in VirtualBox. It involves setting up a versatile virtual environment on my host machine to experiment with two operating systems, software, and networking configurations. This project includes installing multiple virtual machines (VMs) which are Ubuntu and Windows, it also involves configuring internal and external networks
 <br />
 
 
