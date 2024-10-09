@@ -85,7 +85,7 @@ Insatll 7-zip: <br/>
 <br />
 
 <p align="center">
-Download Kali-Linux ISO: <br/>
+Download Kali-Linux ISO(video provided): <br/>
 <img src="https://imgur.com/m73Eppw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
