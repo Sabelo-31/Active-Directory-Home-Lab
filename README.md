@@ -29,15 +29,8 @@ Download Virtualbox: <br/>
 <br />
 
 <p align="center">
-Download Windows 10: <br/>
+Download Windows 10 ISO: <br/>
 <img src="https://imgur.com/xcV7FGO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-
-<p align="center">
-Download Virtualbox: <br/>
-<img src="https://imgur.com/nsztJX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -45,6 +38,76 @@ Download Virtualbox: <br/>
 <p align="center">
 Open Virtualbox: <br/>
 <img src="https://imgur.com/QzMbOgv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Create Virtual Machine: <br/>
+<img src="https://imgur.com/BqaW1zd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Install Windows in VM: <br/>
+<img src="https://imgur.com/FpYq61X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Assigning Windows static IP Address(Video provided): <br/>
+<img src="https://imgur.com/koj8VmC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Installing Guest Addition: <br/>
+<img src="https://imgur.com/9yUbiDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+ 
+<p align="center">
+Download 7-zip: <br/>
+<img src="https://imgur.com/SJtjRZc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Insatll 7-zip: <br/>
+<img src="https://imgur.com/rb91V1t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Download Kali-Linux ISO: <br/>
+<img src="https://imgur.com/m73Eppw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+configuring Kali-Linux VM: <br/>
+<img src="https://imgur.com/PAloiny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Assigning Kali-Linux static IIP address(Video provided): <br/>
+<img src="https://imgur.com/PaD5EsW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+
+<p align="center">
+Pinging Kali-Linux server on Windows Command Prompt to ensure connectivity(Video provided): <br/>
+<img src="https://imgur.com/UpwkDIQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
