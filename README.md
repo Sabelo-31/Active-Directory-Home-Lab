@@ -22,8 +22,31 @@ This project involves building a home lab in VirtualBox. It involves setting up 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Virtualbox: <br/>
+<img src="https://imgur.com/nsztJX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Download Windows 10: <br/>
+<img src="https://imgur.com/xcV7FGO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Download Virtualbox: <br/>
+<img src="https://imgur.com/nsztJX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+Open Virtualbox: <br/>
+<img src="https://imgur.com/QzMbOgv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <br />
 
 
